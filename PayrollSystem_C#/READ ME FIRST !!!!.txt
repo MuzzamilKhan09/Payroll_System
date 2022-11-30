@@ -1,0 +1,29 @@
+PAYROLL SYSTEM - C#
+
+**Login Details**
+
+Username : admin
+Password : admin
+
+**Developed By Muzzamil Ahmed Khan**
+
+START XAMPP, 
+GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "payrolldb" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "Database (MySQL)" FOLDER!
+
+***REQUIREMENTS***
+
+- xampp
+- mysql-connector-net-6.4.4.msi
+- mysql-connector-odbc-5.1.9-win32.msi
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+Payroll System is a simple desktop application developed using C# Language. The Project is based on the concept of managing employee’s record as well as their payroll. Talking about the system, a user has to pass through a login system for using its features. The admin can add employee records, manage users, create payroll, view reports, etc.
+
+The user can manage employees, to add employee records the user has to enter assign code, full name, contact details, relationship status, gender, date of birth, age, daily rate, payment method, and other work information. Simply, the user can create payroll of registered employees by entering their code, payroll details like the number of days, deductions. After entering all these fields, the system automatically generates the employee’s total payment. All the data can be also generated in report view and the last feature of this system in about User management system, where the admin can add and arrange the roles of different users.
+
+Design of this is so simple that the user won’t find difficulties while working on it. Payroll System project helps the user on managing employees information as well as their payroll. For handling data, MySQL is used as a database. This project is easy to operate and understood by the users. To run this project you must have installed Visual Studio IDE and XAMPP on your PC. Payroll System in C# is free to download with source code. 
